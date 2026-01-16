@@ -1,7 +1,7 @@
 /**
  * @file    startup_stm32f446.s
  * @author  Pratik Dhulubulu
- * @brief   Startup code for Cortex-M4 MCU.
+ * @brief   Startup File for Cortex-M4 MCU.
  */
 
 .cpu cortex-m4
